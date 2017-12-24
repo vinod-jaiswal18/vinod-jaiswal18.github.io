@@ -29,4 +29,4 @@ I'm a Creative technologist, Self-motivated and result-oriented professional wit
 *
 {% endcomment %}
 
-{% assign counter = 1 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
+{% assign counter = 1 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}   {Counter:{ counter }}
