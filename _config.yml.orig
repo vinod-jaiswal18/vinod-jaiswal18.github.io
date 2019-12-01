@@ -1,0 +1,12 @@
+title: Vinod Jaiswal 
+description: Software Engineer
+google_analytics: jpos, vinod jaiswal, vinod, jaiswal, vinod-jaiswal18, vj
+<<<<<<< HEAD
+show_downloads: false
+=======
+show_downloads: true
+>>>>>>> 2c0f1f4fda8dd05157bd11fc6d47cb68a0bbc848
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
