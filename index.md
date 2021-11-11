@@ -15,7 +15,7 @@ My skill-set includes (but not limited to):
 + RabbitMQ.
 + AWS solutions like EC2, S3, Load balancers.
 + Android application development.
-+ Knowledge of NodeJS.
++ Knowledge of NodeJS / TypeScript.
 + Six Sigma White Belt.
 + Azure Cloud Certified (x2).
 + Working knowledge of AWS Cloud.
